@@ -1,0 +1,45 @@
+.wrp_board {
+  background-color: #e4e4e4;
+  padding: 20px;
+  margin-top: 20px;
+}
+.wrp_list {
+  background-color: #eeeeee;
+  padding: 10px;
+  border: 1px solid #a1a1a1;
+  margin-bottom: 20px;
+}
+.wrp_list input, .wrp_list textarea {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.wrp_list .txt_new_card {
+  margin-left: 20px;
+  cursor: pointer;
+}
+.wrp_list .txt_new_list {
+  cursor: pointer;
+}
+.wrp_list textarea {
+  resize: none;
+}
+.wrp_list .btn_list_delete {
+  font-size: 16px;
+  margin-top: 5px;
+  float: right;
+}
+.wrp_list .btn_card_delete {
+  font-size: 14px;
+  float: right;
+}
+.wrp_card {
+  cursor: pointer;
+  border: 1px solid #a1a1a1;
+  padding: 10px;
+  margin: 20px 10px;
+  background-color: #ffffff;
+  box-shadow: #dddddd 6px 5px;
+}
+.wrp_card .txt_comments {
+  margin-top: 10px;
+}
